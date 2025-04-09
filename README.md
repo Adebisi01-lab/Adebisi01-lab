@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate with Social media company that does advertised there business using digital marketing
 - 🤔 I’m looking for help with marketing internship to get started
 - 💬 Ask me about any digital skills 
-- 📫 How to reach me: [Linkein](www.linkedin.com/in/adewale-adebisi-08804235a)
+- 📫 How to reach me: [Linkein][www.linkedin.com/in/adewale-adebisi-08804235a]
 - 😄 Pronouns: Her
 - ⚡ Fun fact: No be Play o, Digital skills is life
 - My Skills are;
